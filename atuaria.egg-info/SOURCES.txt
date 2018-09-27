@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.py
+atuaria/README.rst
+atuaria/__init__.py
+atuaria.egg-info/PKG-INFO
+atuaria.egg-info/SOURCES.txt
+atuaria.egg-info/dependency_links.txt
+atuaria.egg-info/not-zip-safe
+atuaria.egg-info/top_level.txt
