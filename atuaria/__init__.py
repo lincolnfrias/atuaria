@@ -1,7 +1,10 @@
 import pandas as pd
 import numpy as np
 
-tabuas = pd.read_csv('https://raw.githubusercontent.com/lincolnfrias/dados/master/tabuas-de-vida.csv')
+
+def tabuas():
+    tabuas = pd.read_csv('https://raw.githubusercontent.com/lincolnfrias/dados/master/tabuas-de-vida.csv')
+    return tabuas
 
 def sv_vit(i, idade, b, qx):
     n = tabuas.idade.max() - idade
