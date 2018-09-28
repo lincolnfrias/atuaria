@@ -11,3 +11,5 @@ Para instalar nosso pacote:
 ```
 pip install atuaria
 ```
+
+Este projeto é inspirado na [interface-atuarial em R](https://github.com/walefmachado/interface-atuarial). 
