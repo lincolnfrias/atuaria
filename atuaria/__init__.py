@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+__version__ = '0.3'
+
 
 def tabuas():
     tabuas = pd.read_csv('https://raw.githubusercontent.com/lincolnfrias/dados/master/tabuas-de-vida.csv')

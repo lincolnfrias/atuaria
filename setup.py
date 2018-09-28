@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='atuaria',
-      version='0.2',
+      version='0.3',
       description='functions used in the courses in Actuarial Sciences  at Unifal-Brazil.',
       url='http://github.com/lincolnfrias/atuaria',
       author='Lincoln Frias and Patricia Siqueira',
